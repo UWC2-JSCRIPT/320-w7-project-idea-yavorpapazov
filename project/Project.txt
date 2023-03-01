@@ -1,0 +1,28 @@
+The name of your project: 
+-	A React application that displays and manages vacation rentals.
+An elevator pitch (a paragraph about what your project does):
+-	This application will be used by people interested in seeing and 
+	managing vacation rentals under their user profile. They will be able to 
+	log in to their profile and then see, add and remove vacation rentals. 
+	The users will also be able to add vacation rentals to their shopping cart,
+	as well as delete them for there. The application will provide an interface with 
+	routing capabilities and will be integrated with Firebase for authentication and storage.
+A list of dependencies you'll be using for your project: 
+-	Firebase
+-	react-router-dom
+A list of tasks that need to be completed for your project
+-	Create a Home component that displays and manages vacation rentals
+-	Create a Form component to capture and submit user input to Firebase
+-	Create VacationRental and ShoppingCart components to display what the user sees on the screen
+-	Create SingleBnb component to render a details page
+-	Integrate the app with Firebase to manage and store vacation rentals
+-	Create navigation bar and enable routing
+-	Enable authentication with Firebase
+-	Deploy the app
+A plan for the next 3 weeks and what you plan to accomplish each week
+-	Create SingleBnb component to render a details page
+-	Integrate the app with Firebase to manage and store vacation rentals
+-	Create navigation bar and enable routing
+-	Enable authentication with Firebase
+-	Error handling
+-	Deploy the app
